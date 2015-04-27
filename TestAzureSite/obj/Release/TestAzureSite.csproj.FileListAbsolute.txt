@@ -1,0 +1,6 @@
+D:\JasonSites\Test Azure Site\TestAzureSite\bin\TestAzureSite.dll.config
+D:\JasonSites\Test Azure Site\TestAzureSite\bin\TestAzureSite.dll
+D:\JasonSites\Test Azure Site\TestAzureSite\bin\TestAzureSite.pdb
+D:\JasonSites\Test Azure Site\TestAzureSite\obj\Release\TestAzureSite.csprojResolveAssemblyReference.cache
+D:\JasonSites\Test Azure Site\TestAzureSite\obj\Release\TestAzureSite.dll
+D:\JasonSites\Test Azure Site\TestAzureSite\obj\Release\TestAzureSite.pdb
